@@ -1,0 +1,4 @@
+python-poyo source: file-without-copyright-information
+python-poyo source: no-debian-changes
+python-poyo source: source-contains-prebuilt-windows-binary
+python-poyo source: source-package-encodes-python-version
